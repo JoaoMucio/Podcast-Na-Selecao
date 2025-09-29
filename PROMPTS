@@ -1,5 +1,19 @@
 ChatGPT
 
  SCRIPT GENERATION
+ [Gere um roteiro para um episódio piloto de um podcast sobre processos seletivos  cujo nome é [X].
+
+Você deve pensar como um especialista em roteiros educativos, e como um especialista em Headhunting para gerar o conteúdo do podcast.
+
+O apresentador, cujo nome é [A], do podcast deve ter uma linguagem amigável aos ouvintes, mas sem recorrer demais a gírias.
+
+Os ouvintes são pessoas recém formadas na universidade, com pouca ou nenhuma experiência profissional, na faixa dos 22 aos 28 anos, que buscam no podcast aprimorar suas chances de serem aprovados num processo seletivo.
+
+O roteiro deve conter uma apresentação do apresentador e do podcast, Uma apresentaçâo do episódio, um briefing do que será abordado, o conteúdo do episódio focado em processos seletivos (abordando os tópicos que julgar necessários ou pertinentes, como entrevistas, preparação, testes, organização etc), e um fechamento do episódio com uma chamada para curtir e compartilhar.
+
+As falas devem ser dadas no formato de markdown, com titulo da seção do episódio seguido pelo conteúdo a ser dito.
+
+As seções de fala devem somar um total de no máximo 12500 caracteres, sem limite mínimo.]
+
 
  
