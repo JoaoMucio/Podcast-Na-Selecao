@@ -1,6 +1,6 @@
 ChatGPT
 
- SCRIPT GENERATION
+ SCRIPT & NAMES GENERATION 
  [Gere um roteiro para um episódio piloto de um podcast sobre processos seletivos  cujo nome é [X].
 
 Você deve pensar como um especialista em roteiros educativos, e como um especialista em Headhunting para gerar o conteúdo do podcast.
@@ -15,5 +15,19 @@ As falas devem ser dadas no formato de markdown, com titulo da seção do episó
 
 As seções de fala devem somar um total de no máximo 12500 caracteres, sem limite mínimo.]
 
+[Dê todas as falas de [A] num formato apropiado para ser inserido no gerador de voz text to speak do eleven labs] 
+
+[Antes disso, me dê sugestões para os nomes de  [X] e [A]]
+
+[Use Na Seleção para [X], me dê um nome de [A] que remeta á seleção brasileira, e que não infrinja direitos de imagem]
+
+[Vamos de João Auriverde] 
+
+[Não precisa, divida o texto em blocos menores.] 
+
+[Deixe a transição entre tópicos mais natural] 
+
+[Sim]-> repeated multiple times, confirming optmizations to the text concerning ElevenLabs control of
+        entonation and pauses, as well as downloading a .txt version of the output.
 
  
