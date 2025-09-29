@@ -12,3 +12,5 @@ Leonardo AI: Since Midjourney, the recomended AI for the cover generation, has e
 
 CAPCUT: used to merge the assets in one video.
 
+Convertio: used to extract the audio from the video, since the audio was generated in blocks 
+           to conform to ElevenLabs restriction of tokens/generation.
